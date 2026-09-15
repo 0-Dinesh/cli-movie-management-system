@@ -55,7 +55,7 @@ Python 3.8+ installed (uses Python standard libraries: `sqlite3`, `csv`, `re`, `
 
 1. Clone or download this repository:
 ```bash
-git clone [https://github.com/your-username/cli-movie-management-system.git](https://github.com/your-username/cli-movie-management-system.git)
+git clone https://github.com/your-username/cli-movie-management-system.git
 cd cli-movie-management-system
 ```
 
