@@ -32,19 +32,6 @@ A command-line database application written in Python that manages a movie catal
   • Display Full Catalog
   ```
 
-  ## Project Structure
-
-  ```text
-  
-├── data/
-│   └── sample_movies.csv
-├── .gitignore
-├── LICENSE
-├── main.py
-└── README.md
-
-  ```
-
   ## Getting Started
 
 **Prerequisites:**
