@@ -31,6 +31,7 @@ A command-line database application written in Python that manages a movie catal
   • Batch Import (CSV)           • View Complete Catalog
   • Display Full Catalog
   ```
+---
 
   ## Getting Started
 
