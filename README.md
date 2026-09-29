@@ -49,7 +49,7 @@ cd cli-movie-management-system
 
 2. Run the application:
 ```bash
-python main.py
+python src/main.py
 ```
 
 3. Access the system:
